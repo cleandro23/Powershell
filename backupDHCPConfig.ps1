@@ -1,4 +1,4 @@
-# Name        : backupDHCPConfig,ps1
+# Name        : backupDHCPConfig.ps1
 # Description : DHCP servers backup
 # Version     : 1.0.0
 # Author      : Carlos Navarro, CRCNN
